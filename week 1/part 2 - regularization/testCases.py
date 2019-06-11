@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jun 10 23:30:27 2019
-
-@author: Nahir
-"""
-
 import numpy as np
 
 def compute_cost_with_regularization_test_case():
